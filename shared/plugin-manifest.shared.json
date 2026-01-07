@@ -1,0 +1,10 @@
+{
+  "name": "rse-agents",
+  "version": "0.2.0",
+  "description": "...",
+  "maintainer": "...",
+  "paths": {
+    "agents": "./plugins/agents",
+    "skills": "./plugins/skills"
+  }
+}
